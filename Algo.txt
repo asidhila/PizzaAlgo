@@ -3,3 +3,5 @@ Menu
 Toppings
 Price
 Order the pizza
+Gave the driver a tip
+Enjoy your pizza 
